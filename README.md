@@ -1,2 +1,2 @@
-# Rastreador-de-tareas-CLI-pr-ctica-backend-
+# Rastreador-de-tareas-CLI-practica-backend-
 Aplicación CLI para la gestión de tareas como práctica de backend.
